@@ -5,3 +5,6 @@ What's New: Added home and end screen Added 5 colour cars, Added many buttons, F
 
 ## Platform
 - Windows
+
+## Install
+- To install you can check [release tab](https://github.com/BIGBEASTISHANK/Beast-Race/releases/)
