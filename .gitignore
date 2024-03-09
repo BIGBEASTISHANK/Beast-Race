@@ -71,6 +71,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Custom
-/[Gg]ame[sS]
-/[Gg]ame
+# Remove Game folder
+/[Gg]ame[Ss]/
+/[Gg]ame/
