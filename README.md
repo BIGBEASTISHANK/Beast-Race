@@ -1,7 +1,4 @@
 # Beast-Race
-
-Name changed of game.
-
 > [!Note]
 > **What's New**:
 > 1. Added home and end screen
