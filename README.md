@@ -9,5 +9,5 @@
 ## Platform
 - Windows
 
-## Install
-- To install you can check [Release Tab](https://github.com/BIGBEASTISHANK/Beast-Race/releases/)
+## Download
+To install game on your prefered platform please visit [Release Tab](https://github.com/BIGBEASTISHANK/Beast-Race/releases/)
